@@ -5,6 +5,8 @@ A very basic MEAN application - An application where users can
 - Retrieve and list posts  
 - Delete their own posts  
 
+![basic-mean-arch](/docs/images/basic-mean-arch.JPG)
+
 ### Highlights on the Angular application... ###  
 
 - Application is broken down into separate components, logically divided by their functionalities.
