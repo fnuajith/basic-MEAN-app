@@ -3,7 +3,7 @@
 A very basic MEAN application - An application where users can
 - Create posts  
 - Retrieve and list posts  
-- Delete their own posts  
+- Delete posts  
 
 ### Architecture ###
 ![basic-mean-arch](/docs/images/basi-mean-arch.jpg)
